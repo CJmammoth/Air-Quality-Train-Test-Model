@@ -53,7 +53,7 @@ python main.py
 
 📬 Contact
 Carlos Jamito
-carlosjamit@gmail.com
+carlosjamito@gmail.com
 
 For questions or suggestions, feel free to reach out or open an issue.
 
